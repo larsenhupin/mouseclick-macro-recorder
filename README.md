@@ -30,10 +30,16 @@ It provides :
 - <b>Double-click</b> on either <b>turbo_macro_recorder.ahk</b> or <b>realtime_macro_recorder.ahk</b>
 - <b>Ctrl+R</b> to start the program
 - Write the hot key using Autohotkey nomanclature and press Ok
-- Click on things, move the mouse
+- Click on things/move the mouse
 - <b>Ctrl+D</b> to stop the program
 - Double-click on <b>macro.ahk</b> to activate
 - Press your hot key to use your macro 
+
+# Autohotkey shortcut nomanclature and exemples
+
+- Modifier : # (Win), ! (Alt), ^ (Ctrl), + (Shift), etc.
+- Exemple : #q:: or ^t:: or ^!s:: are valids shortcuts
+- Docs : https://www.autohotkey.com/docs/Hotkeys.htm
 
 # Troubleshooting and tips
 
@@ -42,3 +48,4 @@ It provides :
 - Make sure only one of the recorder is active at the same time
 - Exit the recorder by right-clicking on the icon in the toolbar and choosing <b>Exit</b>
 - Read the documentation on autohotkey
+- Read the code and modify it as you wish :)
