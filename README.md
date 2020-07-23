@@ -1,0 +1,1 @@
+# mouseclick-macro-recorder
