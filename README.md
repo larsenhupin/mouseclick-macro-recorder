@@ -11,6 +11,8 @@ Modification over the original scripts has been listed below
 Mouseclick-macro-recorder is a Automation Tool and Script Generator </br>
 It's goal is to aid the user to record mouseclick macro using the Autohotkey platform.
 
+![macro_recorder](https://user-images.githubusercontent.com/18330932/88335401-4389ff00-cd01-11ea-8467-7489b3549dbc.PNG)
+
 It provides :
 - Simple UI that allow the user to specify the hot key that is going to be link with the macro
 - Disable double-clicks to prevent false-positive when using single-click-type macros
