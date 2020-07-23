@@ -20,7 +20,7 @@ It provides :
 - Easy to exit all macros using <b>Esc</b> key
 
 <b>turbo_macro_recorder</b> use fix time between clicks </br>
-<b>realtime_macro_recorder</b> simulate (almost) exactly the movement of the mouse while recording
+<b>realtime_macro_recorder</b> simulate the movement of the mouse as it was recorded
 
 # Installation
 
