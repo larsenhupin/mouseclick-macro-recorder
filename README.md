@@ -50,4 +50,4 @@ It provides :
 - Make sure only one of the recorder is active at the same time
 - Exit the recorder by right-clicking on the icon in the toolbar and choosing <b>Exit</b>
 - Read the documentation on autohotkey
-- Read the code and modify it as you wish :)
+- Read the code and modify it as you wish
