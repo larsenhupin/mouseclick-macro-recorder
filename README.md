@@ -1,7 +1,7 @@
 # License
 
 This work is an iteration over the scripts from adegard (https://github.com/adegard/AHK_SCRIPTS)</br>
-Work request by Divertispec (https://www.divertispec.ca/)
+Collaboration on design and testing Divertispec (https://www.divertispec.ca/)
 
 GPLv3 because the original scripts uses this license </br>
 Modification over the original scripts has been listed below
