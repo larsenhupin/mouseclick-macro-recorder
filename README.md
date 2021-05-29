@@ -1,9 +1,9 @@
 # License
 
 This work is an iteration over the scripts from adegard (https://github.com/adegard/AHK_SCRIPTS)</br>
-Collaboration on design and testing Divertispec (https://www.divertispec.ca/)
+Specification, collaboration on design and testing Divertispec (https://www.divertispec.ca/)
 
-GPLv3 because the original scripts uses this license </br>
+GPLv3 license from the original scripts</br>
 Modification over the original scripts has been listed below
 
 # Mouseclick-macro-recorder
